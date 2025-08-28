@@ -15,5 +15,7 @@ public class Main {
         System.out.println("BUBUB");
 
         System.out.println("tassk-123");
+
+        System.out.println("Ruslana mouse no...");
     }
 }
